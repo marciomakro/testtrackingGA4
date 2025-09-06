@@ -1,4 +1,5 @@
 ## Teste google analytics
 
 
-[Site para teste](https://marciomakro.github.io/testtrackingGA4/)
+<a href="https://marciomakro.github.io/testtrackingGA4/" target="_blank">Site para teste do analytics</a>
+
